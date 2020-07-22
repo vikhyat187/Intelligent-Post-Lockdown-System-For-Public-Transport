@@ -3,4 +3,4 @@ Hey people this is the proposed solution for Intelligent-Post-Lock-Down-Manageme
 
 ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-1575-Intelligent-Post-Lock-Down-Management-System-for-Public-Transportation/blob/master/HomePage.png)
 
-https://github.com/SmartPracticeschool/SBSPS-Challenge-1575-Intelligent-Post-Lock-Down-Management-System-for-Public-Transportation/blob/master/Video-demonstration.mp4
+https://github.com/vikhyat187/Intelligent-Post-Lockdown-System-For-Public-Transport/blob/master/Video-demonstration.mp4
